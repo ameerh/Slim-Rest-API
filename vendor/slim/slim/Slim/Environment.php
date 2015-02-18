@@ -94,7 +94,7 @@ class Environment implements \ArrayAccess, \IteratorAggregate
             'QUERY_STRING' => '',
             'SERVER_NAME' => 'localhost',
             'SERVER_PORT' => 80,
-            'ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'ACCEPT' => 'application/json,text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
             'ACCEPT_LANGUAGE' => 'en-US,en;q=0.8',
             'ACCEPT_CHARSET' => 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
             'USER_AGENT' => 'Slim Framework',
